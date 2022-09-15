@@ -1,0 +1,2 @@
+# SplashWindow
+ Окно загрузки WPF
