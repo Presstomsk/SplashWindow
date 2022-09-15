@@ -1,5 +1,5 @@
 # SplashWindow
- Окно загрузки WPF
+ Библиотека Окно загрузки WPF
 
 <p>var mainWindow = new MainWindow(); // инициализация главного окна должна происходить вне блока SplashWindow.</p><br> 
 
